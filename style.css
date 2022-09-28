@@ -30,3 +30,10 @@ h3{
 		width: 300%;
 		height: inherit;
 		margin: 05px;
+
+	.lista {
+			display: inline-block;
+			width: 50%;
+			height: inherit;
+			vertical-align: top;
+			font-size: 20px;
