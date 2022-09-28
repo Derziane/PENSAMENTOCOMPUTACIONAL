@@ -23,3 +23,10 @@ h3{
 	padding: 20px;
 	margin: 20px;
 	}
+
+
+	.imagemlateral {
+		display: inline-block;
+		width: 15%;
+		height: inherit;
+		margin: 05px;
